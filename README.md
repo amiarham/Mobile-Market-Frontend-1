@@ -1,4 +1,4 @@
-<h1>Project Name : Eway | Mobile Market</h1>
+<h1>Project Name : Mobile Market | Mobile Market</h1>
 
 <p>This web project is designed to help me level up my game in web development. Throughout the development process, I covered various technologies, tools, and skills. Here are some of the key highlights:</p>
 
